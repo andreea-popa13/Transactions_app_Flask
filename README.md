@@ -45,6 +45,4 @@ A simple web application built with Flask for managing financial transactions.
    http://127.0.0.1:5000
    ```
 
-## Author
 
-Andreea Popa
